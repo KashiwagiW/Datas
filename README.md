@@ -1,5 +1,6 @@
 # README
-ƒŒƒCƒ‹ƒY•×‹­‰ï‚ÅƒR[ƒh‚ğ‘‚«‚Ü‚·
+ãƒ¬ã‚¤ãƒ«ã‚ºå‹‰å¼·ä¼šã§ã‚³ãƒ¼ãƒ‰ã‚’æ›¸ãã¾ã™
+ã»ã’ã»ã’
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
